@@ -1,2 +1,2 @@
-# Gregory-hats
+# Hats
 Sitio de sombreros y texanas
